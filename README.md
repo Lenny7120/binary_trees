@@ -4,8 +4,10 @@ This was a partner project in which we learned about the details, advantages, an
 
 ##Tests ✔️
 Tester: Folder of test files for all tasks. Provided by ALX.
-#Helper File 🙌
-#Header File 📁
+
+##Helper File 🙌
+
+##Header File 📁
 binary_trees.h: Header file containing definitions and prototypes for all types and functions written for the project.
 
 ## Tasks 📃

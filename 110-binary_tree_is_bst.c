@@ -21,4 +21,3 @@ int is_bst_helper(const binary_tree_t *tree, int lo, int hi)
 	return (1);
 }
 
-/**
